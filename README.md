@@ -4,7 +4,7 @@ An interactive sales dashboard built using Microsoft Excel to analyze sales, pro
 
 ## 📊 Dashboard Preview
 
-![Superstore Sales Dashboard](dashboard.png.png)
+![Superstore Sales Dashboard](dashboard.png)
 
 ## 🎯 Project Objective
 
